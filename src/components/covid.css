@@ -1,0 +1,30 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+
+/* body{
+    background-color:#696b6e
+}
+section{
+    color:white;
+} */
+.main_heading{
+    text-align: center;
+    font-size: 35px;
+    padding: 20px;
+}
+.main_div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.card{
+    display: table;
+    background-color:#81ecec;
+    color:black;
+    margin: 20px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1 200px;
+    
+}
