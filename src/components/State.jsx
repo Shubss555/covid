@@ -24,11 +24,11 @@ const State =()=>{
            <thead className="thead-dark">
                <tr>
                    <th>State</th>
-                   <td>Active</td>
-                   <td>Confirmed</td>
-                   <td>Recovered</td>
-                   <td>Death</td> 
-                   <td>Updated</td>
+                   <th>Active</th>
+                   <th>Confirmed</th>
+                   <th>Recovered</th>
+                   <th>Death</th> 
+                   <th>Updated</th>
                </tr>
            </thead>
            <tbody>
